@@ -1,3 +1,1 @@
-My first readme
-
-Yeap, I did it.
+My first README.md file
